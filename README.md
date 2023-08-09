@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @aulindoraiyan
-- 👀 I’m interested in music, coding, and watching sitcoms. 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on making projects
-- 📫 reach me through email
-
-<!---
-aulindoraiyan/aulindoraiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Greetings! I'm a firm believer in the power of clean, efficient, and readable code. Bugs might test my patience, but that's where the fun begins. If you share a passion for elegant coding and want to team up for Shellhacks, let's make our code shine and bugs tremble!
